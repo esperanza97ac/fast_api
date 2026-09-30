@@ -1,4 +1,4 @@
-# TechSolutions - API de Recetas 
+# API de Recetas 
 
 Una API RESTful desarrollada con FastAPI para la gestión de recetas culinarias y sus categorías. Este proyecto prioriza la arquitectura de backend con un modelo de base de datos relacional, e incluye un cliente web ligero para documentar, visualizar y consumir la información gestionada.
 
@@ -6,8 +6,8 @@ Una API RESTful desarrollada con FastAPI para la gestión de recetas culinarias 
 
 **Backend:**
 * **Framework:** FastAPI (Python)
-* **Base de Datos:** SQLite / PostgreSQL (según entorno)
-* **ORM:** SQLAlchemy o SQLModel
+* **Base de Datos:** SQLite
+* **ORM:** SQLAlchemy
 * **Validación de Datos:** Pydantic
 
 **Herramientas & Metodologías:**
